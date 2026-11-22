@@ -1,0 +1,6 @@
+@Mise.Api_HostAddress = http://localhost:5210
+
+GET {{Mise.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
