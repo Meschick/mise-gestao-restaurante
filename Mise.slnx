@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Mise.Api/Mise.Api.csproj" />
+    <Project Path="src/Mise.Application/Mise.Application.csproj" />
+    <Project Path="src/Mise.Domain/Mise.Domain.csproj" />
+    <Project Path="src/Mise.Infrastructure/Mise.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Mise.UnitTests/Mise.UnitTests.csproj" />
+  </Folder>
+</Solution>
