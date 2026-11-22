@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mise.Application\Mise.Application.csproj" />
+    <ProjectReference Include="..\Mise.Infrastructure\Mise.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

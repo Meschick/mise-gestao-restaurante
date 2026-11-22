@@ -18,4 +18,9 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Mise.Domain\Mise.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Mise.Application\Mise.Application.csproj" />
+  </ItemGroup>
+
 </Project>
